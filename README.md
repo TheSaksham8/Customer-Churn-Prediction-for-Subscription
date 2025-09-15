@@ -25,7 +25,7 @@ Above mentioned Dataset is stored in file - "**appdata10.csv**"
 Luckily Company also provided list of top screen used by user to reduce number of feature in file - "**top_screens.csv**"
 
 ## Files
-"**fintech.py**" and "**fintech.ipynb**" are python and notebook files respectively.
+"**fintech.py**" and "**fintech.ipynb**" are python and jupyter notebook files respectively.
 
 
 ## Task Performed
